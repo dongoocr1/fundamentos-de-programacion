@@ -1,0 +1,1 @@
+En la carpeta de "semana 1" esta el archivo del entegable y las actividades extra en un mismo archivo  
