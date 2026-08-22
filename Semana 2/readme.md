@@ -1,0 +1,1 @@
+carpeta semana 2 se encuentra la activiadad numero 2
