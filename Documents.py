@@ -1,2 +1,0 @@
-certificado
-print("hello word")
