@@ -1,0 +1,59 @@
+--- INICIO DEL REPORTE DE VENTAS DEL DIA ---
+
+========================================
+Fecha: 1/13/123 | Cajero: d
+Cliente a llamar: LEDEZMA
+----------------------------------------
+- Western Bacon x1 ($135.0)
+- Combo Super Star x2 ($360.0)
+----------------------------------------
+Subtotal: $495.0
+IVA (16%): $79.2
+Total Final: $574.2
+----------------------------------------
+Metodo de Pago: Tarjeta
+Estado: APROBADO (Sin cambio)
+========================================
+
+========================================
+Fecha: 1/13/123 | Cajero: d
+Cliente a llamar: LSLS
+----------------------------------------
+- Western Bacon x1 ($135.0)
+----------------------------------------
+Subtotal: $135.0
+IVA (16%): $21.6
+Total Final: $156.6
+----------------------------------------
+Metodo de Pago: Tarjeta
+Estado: APROBADO (Sin cambio)
+========================================
+
+========================================
+Fecha: 12/12/12 | Cajero: d
+Cliente a llamar: JUAN
+----------------------------------------
+- Western Bacon x1 ($135.0)
+- Guacamole Burger x2 ($300.0)
+----------------------------------------
+Subtotal: $435.0
+IVA (16%): $69.6
+Total Final: $504.6
+----------------------------------------
+Metodo de Pago: Tarjeta
+Estado: APROBADO (Sin cambio)
+========================================
+
+========================================
+Fecha: 12/12/12 | Cajero: d
+Cliente a llamar: LOL
+----------------------------------------
+- Famous Star x2 ($220.0)
+----------------------------------------
+Subtotal: $220.0
+IVA (16%): $35.2
+Total Final: $255.2
+----------------------------------------
+Metodo de Pago: Tarjeta
+Estado: APROBADO (Sin cambio)
+========================================

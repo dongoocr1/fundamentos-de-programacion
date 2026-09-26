@@ -1,0 +1,2 @@
+Cliente: Juan | Estado: Frecuente / Activo
+Cliente: Lol | Estado: Frecuente / Activo

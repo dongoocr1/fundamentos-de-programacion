@@ -1,0 +1,3 @@
+--- LOG DE ERRORES INICIALIZADO ---
+ERROR DETECTADO: El cajero puso letras en la cantidad.
+ERROR DETECTADO: El cajero puso letras en la cantidad.
